@@ -1,0 +1,2 @@
+# UIManager
+Template singleton UI
